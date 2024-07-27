@@ -13,6 +13,9 @@ This project is a Q/A chatbot built with Streamlit, leveraging the Gemini Pro AP
 - Python 3.9 or higher
 - anaconada
 
+###Project link
+https://github.com/prati019/Chatbot
+
 ### Steps
 
 1. **Create a Virtual Environment**
