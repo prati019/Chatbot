@@ -21,7 +21,7 @@ def get_gemini_response(ques):
 
 # Setting up Streamlit app
 st.set_page_config(
-    page_title="Gemini Pro Q/A Project",
+    page_title="Gemini Q/A Project",
     layout="wide",
     initial_sidebar_state="expanded",
 )
